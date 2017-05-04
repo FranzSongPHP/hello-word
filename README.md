@@ -1,3 +1,7 @@
 # hello-word
-first day. just another repository
+first day. 
+<?PHP
+echo "Hello World!"
+?>
+just another repository
 learn how to do next.
